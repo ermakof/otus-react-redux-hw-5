@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppHeader Render <AppHeader> 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x0l4uv"
+  >
+    <div
+      class="css-1lu5s7y"
+      role="headerTitle"
+    >
+      Дз №4
+    </div>
+    <div
+      class="css-1ng1nrc"
+    >
+      Поиск:
+      <input
+        role="filterInput"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

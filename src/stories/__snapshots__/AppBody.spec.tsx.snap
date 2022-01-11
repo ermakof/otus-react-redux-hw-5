@@ -1,0 +1,528 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppBody Render <AppBody> with data 1`] = `
+<DocumentFragment>
+  <div
+    class="css-dpjq5q"
+  >
+    <ul
+      role="dataList"
+    >
+      <li
+        role="dataItem"
+      >
+        1 sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 qui est esse
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 ea molestias quasi exercitationem repellat qui ipsa sit aut
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 eum et est occaecati
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 nesciunt quas odio
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 dolorem eum magni eos aperiam quia
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 magnam facilis autem
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 dolorem dolore est ipsam
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 nesciunt iure omnis dolorem tempora et accusantium
+      </li>
+      <li
+        role="dataItem"
+      >
+        1 optio molestias id quia eum
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 et ea vero quia laudantium autem
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 in quibusdam tempore odit est dolorem
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 dolorum ut in voluptas mollitia et saepe quo animi
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 voluptatem eligendi optio
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 eveniet quod temporibus
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 fugit voluptas sed molestias voluptatem provident
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 voluptate et itaque vero tempora molestiae
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 adipisci placeat illum aut reiciendis qui
+      </li>
+      <li
+        role="dataItem"
+      >
+        2 doloribus ad provident suscipit at
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 asperiores ea ipsam voluptatibus modi minima quia sint
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 dolor sint quo a velit explicabo quia nam
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 maxime id vitae nihil numquam
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 autem hic labore sunt dolores incidunt
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 rem alias distinctio quo quis
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 est et quae odit qui non
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 quasi id et eos tenetur aut quo autem
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 delectus ullam et corporis nulla voluptas sequi
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 iusto eius quod necessitatibus culpa ea
+      </li>
+      <li
+        role="dataItem"
+      >
+        3 a quo magni similique perferendis
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 ullam ut quidem id aut vel consequuntur
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 doloremque illum aliquid sunt
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 qui explicabo molestiae dolorem
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 magnam ut rerum iure
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 id nihil consequatur molestias animi provident
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 fuga nam accusamus voluptas reiciendis itaque
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 provident vel ut sit ratione est
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 explicabo et eos deleniti nostrum ab id repellendus
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 eos dolorem iste accusantium est eaque quam
+      </li>
+      <li
+        role="dataItem"
+      >
+        4 enim quo cumque
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 non est facere
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 commodi ullam sint et excepturi error explicabo praesentium voluptas
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 optio dolor molestias sit
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 ut numquam possimus omnis eius suscipit laudantium iure
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 aut quo modi neque nostrum ducimus
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 quibusdam cumque rem aut deserunt
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 ut voluptatem illum ea doloribus itaque eos
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 laborum non sunt aut ut assumenda perspiciatis voluptas
+      </li>
+      <li
+        role="dataItem"
+      >
+        5 repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 soluta aliquam aperiam consequatur illo quis voluptas
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 qui enim et consequuntur quia animi quis voluptate quibusdam
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 ut quo aut ducimus alias
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 sit asperiores ipsam eveniet odio non quia
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 sit vel voluptatem et non libero
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 qui et at rerum necessitatibus
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 sed ab est est
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 voluptatum itaque dolores nisi et quasi
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 qui commodi dolor at maiores et quis id accusantium
+      </li>
+      <li
+        role="dataItem"
+      >
+        6 consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 voluptatem doloribus consectetur est ut ducimus
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 beatae enim quia vel
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 voluptas blanditiis repellendus animi ducimus error sapiente et suscipit
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 et fugit quas eum in in aperiam quod
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 consequatur id enim sunt et et
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 repudiandae ea animi iusto
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 aliquid eos sed fuga est maxime repellendus
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 odio quis facere architecto reiciendis optio
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 fugiat quod pariatur odit minima
+      </li>
+      <li
+        role="dataItem"
+      >
+        7 voluptatem laborum magni
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 et iusto veniam et illum aut fuga
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 sint hic doloribus consequatur eos non id
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 consequuntur deleniti eos quia temporibus ab aliquid at
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 enim unde ratione doloribus quas enim ut sit sapiente
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 dignissimos eum dolor ut enim et delectus in
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 doloremque officiis ad et non perferendis
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 necessitatibus quasi exercitationem odio
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 quam voluptatibus rerum veritatis
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 pariatur consequatur quia magnam autem omnis non amet
+      </li>
+      <li
+        role="dataItem"
+      >
+        8 labore in ex et explicabo corporis aut quas
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 tempora rem veritatis voluptas quo dolores vero
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 laudantium voluptate suscipit sunt enim enim
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 odit et voluptates doloribus alias odio et
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 dolore veritatis porro provident adipisci blanditiis et sunt
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 placeat quia et porro iste
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 nostrum quis quasi placeat
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 sapiente omnis fugit eos
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 sint soluta et vel magnam aut ut sed qui
+      </li>
+      <li
+        role="dataItem"
+      >
+        9 ad iusto omnis odit dolor voluptatibus
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 aut amet sed
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 ratione ex tenetur perferendis
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 beatae soluta recusandae
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 qui qui voluptates illo iste minima
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 id minus libero illum nam ad officiis
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 quaerat velit veniam amet cupiditate aut numquam ut sequi
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 quas fugiat ut perspiciatis vero provident
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 laboriosam dolor voluptates
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 temporibus sit alias delectus eligendi possimus magni
+      </li>
+      <li
+        role="dataItem"
+      >
+        10 at nam consequatur ea labore ea harum
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`AppBody Render <AppBody> without data 1`] = `
+<DocumentFragment>
+  <div
+    class="css-dpjq5q"
+  >
+    <p
+      role="dataMessage"
+    >
+      Нет данных
+    </p>
+  </div>
+</DocumentFragment>
+`;

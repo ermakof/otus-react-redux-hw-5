@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Render <Input> 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1ng1nrc"
+  >
+    Поиск:
+    <input
+      role="filterInput"
+    />
+  </div>
+</DocumentFragment>
+`;
