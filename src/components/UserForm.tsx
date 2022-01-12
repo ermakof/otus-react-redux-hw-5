@@ -1,46 +1,97 @@
-import React, { FC } from 'react';
-import { Formik, Field, Form, FormikHelpers } from 'formik';
+import React, { PureComponent } from 'react';
+import { Formik, Field, Form } from 'formik';
 import styled from '@emotion/styled';
 
 const Root = styled.div`
   label {
-    margin: 5px;
+    margin-right: 5px;
   }
 
   button {
     margin: 5px;
   }
+
+  input {
+    margin-right: 30px;
+  }
+
+  form {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
 `;
 
-export interface IUserForm {
+const UserInfo = styled.label`
+  opacity: 0.5;
+  margin-left: 25px;
+`;
+
+export interface IUserFormProps {
   firstName: string;
   lastName: string;
   onSubmit: (values: IUserData) => void;
 }
 
-type IUserData = Omit<IUserForm, 'onSubmit'>;
+export type IUserData = Omit<IUserFormProps, 'onSubmit'>;
 
-const UserForm: FC<IUserForm> = ({ onSubmit, ...userData }) => {
-  const handleSubmit = (values: IUserData, { setSubmitting }: FormikHelpers<IUserData>) => {
-    setSubmitting(true);
-    onSubmit(values);
-  };
+class UserForm extends PureComponent<IUserFormProps, IUserData> {
+  constructor(props: IUserFormProps) {
+    super(props);
 
-  return (
-    <Root role="userForm">
-      <Formik initialValues={{ ...userData }} onSubmit={handleSubmit}>
-        <Form>
-          <label htmlFor="firstName">Имя</label>
-          <Field id="firstName" name="firstName" placeholder="Введите ммя" />
+    this.state = {
+      firstName: props.firstName,
+      lastName: props.lastName,
+    };
 
-          <label htmlFor="lastName">Фамилия</label>
-          <Field id="lastName" name="lastName" placeholder="Введите фамилию" />
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+    this.getFio = this.getFio.bind(this);
+  }
 
-          <button type="submit">Сохранить</button>
-        </Form>
-      </Formik>
-    </Root>
-  );
-};
+  handleSubmit() {
+    this.props.onSubmit({ ...this.state });
+  }
+
+  getFio() {
+    return `${this.state.firstName} ${this.state.lastName}`;
+  }
+
+  handleChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const { id, value } = e.currentTarget;
+    this.setState((state) => ({ ...state, [id]: value }));
+  }
+
+  render() {
+    return (
+      <Root role="userForm">
+        <Formik initialValues={{ ...this.state }} onSubmit={this.handleSubmit}>
+          <Form>
+            <label htmlFor="firstName">Имя</label>
+            <Field
+              id="firstName"
+              name="firstName"
+              placeholder="Введите ммя"
+              value={this.state.firstName}
+              onChange={this.handleChange}
+            />
+
+            <label htmlFor="lastName">Фамилия</label>
+            <Field
+              id="lastName"
+              name="lastName"
+              placeholder="Введите фамилию"
+              value={this.state.lastName}
+              onChange={this.handleChange}
+            />
+
+            <button type="submit">Сохранить</button>
+
+            <UserInfo>{this.getFio()}</UserInfo>
+          </Form>
+        </Formik>
+      </Root>
+    );
+  }
+}
 
 export default UserForm;

@@ -3,13 +3,48 @@
 exports[`AppHeader Render <AppHeader> 1`] = `
 <DocumentFragment>
   <div
-    class="css-x0l4uv"
+    class="css-1bi6gex"
   >
     <div
-      class="css-1lu5s7y"
-      role="headerTitle"
+      class="css-nga5lq"
+      role="userForm"
     >
-      Дз №4
+      <form
+        action="#"
+      >
+        <label
+          for="firstName"
+        >
+          Имя
+        </label>
+        <input
+          id="firstName"
+          name="firstName"
+          placeholder="Введите ммя"
+          value=""
+        />
+        <label
+          for="lastName"
+        >
+          Фамилия
+        </label>
+        <input
+          id="lastName"
+          name="lastName"
+          placeholder="Введите фамилию"
+          value=""
+        />
+        <button
+          type="submit"
+        >
+          Сохранить
+        </button>
+        <label
+          class="css-12vxlcv"
+        >
+           
+        </label>
+      </form>
     </div>
     <div
       class="css-1ng1nrc"

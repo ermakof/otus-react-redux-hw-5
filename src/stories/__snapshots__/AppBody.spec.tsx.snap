@@ -3,7 +3,7 @@
 exports[`AppBody Render <AppBody> with data 1`] = `
 <DocumentFragment>
   <div
-    class="css-dpjq5q"
+    class="css-1tso42b"
   >
     <ul
       role="dataList"
@@ -516,7 +516,7 @@ exports[`AppBody Render <AppBody> with data 1`] = `
 exports[`AppBody Render <AppBody> without data 1`] = `
 <DocumentFragment>
   <div
-    class="css-dpjq5q"
+    class="css-1tso42b"
   >
     <p
       role="dataMessage"

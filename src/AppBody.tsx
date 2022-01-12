@@ -4,12 +4,11 @@ import { IUserList } from '@src/App';
 
 const Root = styled.div`
   height: 70vh;
-  align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   overflow-y: auto;
   margin: auto;
-  width: 70%;
+  margin: 0 200px;
 
   p {
     text-align: center;

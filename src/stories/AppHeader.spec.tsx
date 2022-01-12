@@ -7,8 +7,6 @@ describe('AppHeader', () => {
     const handleChangeFilter = jest.fn();
     const { asFragment } = render(<AppHeader onChangeFilter={handleChangeFilter} />);
     expect(asFragment()).toMatchSnapshot();
-    const headerTitle = screen.getByRole(/headerTitle/gi);
-    expect(headerTitle).toBeInTheDocument();
     const filterInput = screen.getByRole(/filterInput/gi);
     expect(filterInput).toBeInTheDocument();
   });
