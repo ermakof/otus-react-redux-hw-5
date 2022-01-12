@@ -19,7 +19,7 @@
     "test:snapshot": "npx jest --updateSnapshot",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "npx chromatic --project-token=07c0525a595b",
+    "chromatic": "npx chromatic --project-token=a832e1a7c7ec",
     "prepare": "husky install"
   },
   "eslintConfig": {},
