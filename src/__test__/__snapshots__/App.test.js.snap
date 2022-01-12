@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render App 1`] = `
+<DocumentFragment>
+  <div
+    class="css-5simcc"
+  >
+    <div
+      class="css-1bi6gex"
+    >
+      <div
+        class="css-nga5lq"
+        role="userForm"
+      >
+        <form
+          action="#"
+        >
+          <label
+            for="firstName"
+          >
+            Имя
+          </label>
+          <input
+            id="firstName"
+            name="firstName"
+            placeholder="Введите ммя"
+            value=""
+          />
+          <label
+            for="lastName"
+          >
+            Фамилия
+          </label>
+          <input
+            id="lastName"
+            name="lastName"
+            placeholder="Введите фамилию"
+            value=""
+          />
+          <button
+            type="submit"
+          >
+            Сохранить
+          </button>
+          <label
+            class="css-12vxlcv"
+          >
+             
+          </label>
+        </form>
+      </div>
+      <div
+        class="css-1ng1nrc"
+      >
+        Поиск:
+        <input
+          role="filterInput"
+        />
+      </div>
+    </div>
+    <div
+      class="css-1tso42b"
+    >
+      <p
+        role="dataMessage"
+      >
+        Нет данных
+      </p>
+    </div>
+    <div
+      class="css-1co368a"
+    >
+      <p
+        role="userCount"
+      >
+        Количество пользователей: 0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
