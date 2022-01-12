@@ -16,7 +16,7 @@ interface IInputProps {
 interface IInputState {
   value: string;
 }
-export default class Input extends PureComponent<IInputProps, IInputState> {
+export default class SearchInput extends PureComponent<IInputProps, IInputState> {
   input: React.RefObject<HTMLInputElement>;
 
   constructor(props: IInputProps) {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import Loading from '@src/common/Loading';
+import Loading from '@src/components/Loading';
 
 describe('Loading', () => {
   it('Render <Loading>', () => {

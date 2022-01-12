@@ -11,6 +11,10 @@ export default {
   title: 'Example/AppBody',
 } as ComponentMeta<typeof AppBody>;
 
-const Template: ComponentStory<typeof AppBody> = () => <AppBody data={data} />;
+const Template: ComponentStory<typeof AppBody> = (args) => <AppBody {...args} />;
 
 export const Static = Template.bind({});
+
+Static.args = {
+  data: data,
+};

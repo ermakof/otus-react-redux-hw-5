@@ -1,8 +1,8 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import Input from '@src/common/Input';
+import Input from '@src/components/SearchInput';
 
-describe('Input', () => {
+describe('SearchInput', () => {
   it('Render <Input>', () => {
     const handleChange = jest.fn();
     const { asFragment } = render(<Input onChange={handleChange} autoFocus={true} />);

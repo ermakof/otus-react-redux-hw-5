@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 import styled from '@emotion/styled';
-import Input from '@src/common/Input';
+import Input from '@src/components/SearchInput';
 
 const Root = styled.div`
   height: 20vh;

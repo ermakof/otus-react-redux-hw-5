@@ -5,7 +5,7 @@ import { Global, css } from '@emotion/core';
 import AppHeader from '@src/AppHeader';
 import AppBottom from '@src/AppBottom';
 import AppBody from '@src/AppBody';
-import Loading from '@src/common/Loading';
+import Loading from '@src/components/Loading';
 
 const Root = styled.div`
   overflow: hidden;
